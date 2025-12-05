@@ -81,7 +81,7 @@ CREATE TABLE `persona` (
 --
 
 INSERT INTO `persona` (`idpersona`, `nombre`, `paterno`, `materno`, `fechanacimiento`) VALUES
-(1, 'Jhonatan Rodrigo', 'Laruta', 'Quino', '2002-05-15'),
+(1, 'Jhonatan Rodrigo', 'Laruta', 'Quino', '2005-05-21'),
 (2, 'Maria', 'Gomez', 'Arce', '1995-08-20'),
 (3, 'Carlos', 'Mamani', 'Quispe', '1988-12-10'),
 (4, 'Ana', 'Flores', 'Mamani', '1992-03-15'),
